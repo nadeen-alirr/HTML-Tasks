@@ -1,0 +1,55 @@
+
+.profile{
+    width: 300px;
+    border-radius: 50%;
+    border: 1px solid #0b0a0a;
+    position: relative;
+    left: 570px;
+
+}
+header h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header h3 {
+    text-align: center;
+}
+header pre{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+
+aside h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer ul li{
+    list-style-type: none;  
+    display: inline;
+}
+aside ul li{
+    list-style-type: none;  
+    display: inline;
+    padding: px;
+    margin-left: 50px;
+    text-align: center;
+}
+ .mainlist{
+    text-align: center;
+}
+.skilllist{
+    text-align: center;
+}
+/*  */
+
+.methodexternal{
+    background-color: green;
+    text-align: center;
+}
+/*  */
